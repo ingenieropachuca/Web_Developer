@@ -1,2 +1,2 @@
 # Web_Developer
-Almacén de proyectos para la web
+Proyectos web JavaScript, HTML, CSS ,jQuery,Bootstrap,Node Js, Express, Mongo DB 
