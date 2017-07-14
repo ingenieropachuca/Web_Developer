@@ -64,7 +64,7 @@ var palabra = prompt("Hola estas hay?");
 
 //THE LAST EXERCISE 
 
-/*for (var num=-10;num<=19;num++)
+for (var num=-10;num<=19;num++)
 {
 console.log(num);
 }
@@ -76,7 +76,4 @@ console.log("NUEVO EJERCICIO");
 	{
 		console.log(num3);
 	}
-}*/
-var num = prompt("Hola escoge un numero del 1 al 10:  ");
-var numero= (((((num%10)*2)+3)/3)+1);
-alert("El numero es: "+nuevo);
+}
